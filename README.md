@@ -4,9 +4,10 @@ The purpose of this project is to refactor the code from three files—-Wikipedi
 
 ## Results
 ### Write an ETL Function to Read Three Data Files
-![deliverable1](https://user-images.githubusercontent.com/102264298/170886454-0623dbc5-286d-4814-ba53-a01d7557cfd5.png)
 
 ![deliverable1_2](https://user-images.githubusercontent.com/102264298/170886458-09704cb9-da41-4b8b-af79-900bc6c3a9db.png)
+
+![deliverable1](https://user-images.githubusercontent.com/102264298/170886454-0623dbc5-286d-4814-ba53-a01d7557cfd5.png)
 
 ### Extract and Transform the Wikipedia Data
 ![deliverable2](https://user-images.githubusercontent.com/102264298/170886496-4825a735-1944-4657-9df3-484dfec773fb.png)
